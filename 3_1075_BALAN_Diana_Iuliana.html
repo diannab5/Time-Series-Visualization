@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>
+        <script type="text/javascript" src="3_1075_BALAN_Diana_Iuliana.js"></script>
+        <link rel="stylesheet" type="text/css" href="3_1075_BALAN_Diana_Iuliana.css">
+    </head>
+
+    <body>
+      <h1>VIZUALIZARE SERIE DE TIMP</h1>
+     
+     
+     
+      <div class="date">
+        <fieldset>
+            <legend>Histograma </legend>
+            <div id="selecteazaDiv">
+                <label for="selecteazaTara">Tara: </label>
+                <select id="selecteazaTara">
+                      <option value="Canada">Canada</option>
+                      <option value="Marea Britanie">Marea Britanie</option>
+                      <option value="Statele_Unite">Statele Unite</option>
+                </select>
+            
+          </div>
+            <div id="intrari">
+                <label for="">Alege vizualizarea productiei de: </label> <br/>
+                <input type="radio" name="caracteristica" value="hidroelectricitate" checked="true">Hidroelectricitate<br>
+                <input type="radio" name="caracteristica" value="energienucleara">Energie nucleara<br>
+                <input type="radio" name="caracteristica" value="petrol">Petrol
+            </div>
+            <button id="buttonHistograma">OK</button>
+        </fieldset>
+    </div>
+    
+    <canvas id="canvas" width="1050px " height="400px" margin-top= "20px"></canvas>
+    
+
+    <div class="date">
+      <fieldset>
+          <legend>Evolutie in timp Bubble Chart</legend>
+        
+          <div id="intrari">
+              <label for="">Alege un an intre 1980 si 2009: </label> <br/>
+              <input type="text" name="year" id="year" value="1980"><br>
+             
+          </div>
+          <button id="btnBubbleChart">OK</button>
+          <button id="animatie">Vizualizeaza animatia</button>
+      </fieldset>
+  </div>
+
+  <canvas id="canvas2" width="1050px " height="400px" margin-top= "20px"></canvas>
+  
+  <div class="date">
+    <fieldset>
+        <legend>Date tabel</legend>
+    
+        <div id="intrari">
+            <label for="">Alege un an intre 1980 si 2009:</label> <br/>
+            <input type="text" name="year" id="yearTable" value="1980"><br>
+           
+        </div>
+        
+        <button id="tableBtn">Vizualizare tabel</button>
+    </fieldset>
+</div>
+
+
+<table id="table"></table>
+
+   </body>
+
+</html>

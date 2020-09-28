@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', serif;
+    background-color: #e1f7f2;
+}
+h1 {
+    background-color: #ffffff;
+    font-style: oblique;
+    padding: 3px;
+    text-align: center;
+    color: #00002D;
+    margin: 10px;
+}
+#canvas {
+    margin-top: 30px;
+    margin-left: 190px;
+    border: 3px solid black;
+}
+fieldset{
+    border: 1px solid rgb(0,0,0);
+    width: 400px;
+    margin: 0 auto;
+}
+#canvas2 {
+    margin-top: 30px;
+    margin-left: 190px;
+    border: 3px solid black;
+}
+.date {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#selectDiv {
+    margin-left: 30px;
+    margin-top: 20px;
+}

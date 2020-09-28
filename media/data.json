@@ -1,0 +1,539 @@
+{
+    "values": [{
+        "tara": "Canada",
+        "an": "1980",
+        "hidroelectricitate": "21600000",
+        "energie nucleara": "3270000",
+        "petrol": "83300000"
+    }, {
+       
+        "tara": "Canada",
+        "an": "1981",
+        "hidroelectricitate": "22900000",
+        "energie nucleara": "3450000",
+        "petrol": "75400000"
+    }, {
+		"tara": "Canada",
+        "an": "1982",
+        "hidroelectricitate": "22200000",
+        "energie nucleara": "3300000",
+        "petrol": "75400000"
+	}, {
+		"tara": "Canada",
+        "an": "1983",
+        "hidroelectricitate": "22900000",
+        "energie nucleara": "4180000",
+        "petrol": "78600000"
+	}, {
+		"tara": "Canada",
+        "an": "1984",
+        "hidroelectricitate": "24600000",
+        "energie nucleara": "4490000",
+        "petrol": "83800000"
+	}, {
+		"tara": "Canada",
+        "an": "1985",
+        "hidroelectricitate": "26100000",
+        "energie nucleara": "5200000",
+        "petrol": "85700000"
+	}, {
+		"tara": "Canada",
+        "an": "1986",
+        "hidroelectricitate": "26700000",
+        "energie nucleara": "6130000",
+        "petrol": "85700000"
+	}, {
+		"tara": "Canada",
+        "an": "1987",
+        "hidroelectricitate": "27200000",
+        "energie nucleara": "6640000",
+        "petrol": "90300000"
+	}, {
+		"tara": "Canada",
+        "an": "1988",
+        "hidroelectricitate": "26400000",
+        "energie nucleara": "7130000",
+        "petrol": "95100000"
+	}, {
+		"tara": "Canada",
+        "an": "1989",
+        "hidroelectricitate": "25100000",
+        "energie nucleara": "6870000",
+        "petrol": "92600000"
+	}, {
+		"tara": "Canada",
+        "an": "1990",
+        "hidroelectricitate": "25500000",
+        "energie nucleara": "6270000",
+        "petrol": "92800000"
+	}, {
+		"tara": "Canada",
+        "an": "1991",
+        "hidroelectricitate": "26500000",
+        "energie nucleara": "7300000",
+        "petrol": "93200000"
+	}, {
+		"tara": "Canada",
+        "an": "1992",
+        "hidroelectricitate": "27200000",
+        "energie nucleara": "6930000",
+        "petrol": "97200000"
+	}, {
+		"tara": "Canada",
+        "an": "1993",
+        "hidroelectricitate": "27800000",
+        "energie nucleara": "8080000",
+        "petrol": "102000000"
+	}, {
+		"tara": "Canada",
+        "an": "1994",
+        "hidroelectricitate": "28400000",
+        "energie nucleara": "9270000",
+        "petrol": "107000000"
+	}, {
+		"tara": "Canada",
+        "an": "1995",
+        "hidroelectricitate": "28900000",
+        "energie nucleara": "8410000",
+        "petrol": "112000000"
+	}, {
+		"tara": "Canada",
+        "an": "1996",
+        "hidroelectricitate": "30600000",
+        "energie nucleara": "7980000",
+        "petrol": "115000000"
+	}, {
+		"tara": "Canada",
+        "an": "1997",
+        "hidroelectricitate": "30200000",
+        "energie nucleara": "7100000",
+        "petrol": "121000000"
+	}, {
+		"tara": "Canada",
+        "an": "1998",
+        "hidroelectricitate": "28500000",
+        "energie nucleara": "6150000",
+        "petrol": "125000000"
+	}, {
+		"tara": "Canada",
+        "an": "1999",
+        "hidroelectricitate": "29700000",
+        "energie nucleara": "6320000",
+        "petrol": "121000000"
+	}, {
+		"tara": "Canada",
+        "an": "2000",
+        "hidroelectricitate": "30800000",
+        "energie nucleara": "6260000",
+        "petrol": "125000000"
+	}, {
+		"tara": "Canada",
+        "an": "2001",
+        "hidroelectricitate": "28700000",
+        "energie nucleara": "6600000",
+        "petrol": "126000000"
+	}, {
+		"tara": "Canada",
+        "an": "2002",
+        "hidroelectricitate": "30100000",
+        "energie nucleara": "6490000",
+        "petrol": "133000000"
+	}, {
+		"tara": "Canada",
+        "an": "2003",
+        "hidroelectricitate": "29000000",
+        "energie nucleara": "6440000",
+        "petrol": "140000000"
+	}, {
+		"tara": "Canada",
+        "an": "2004",
+        "hidroelectricitate": "29300000",
+        "energie nucleara": "7770000",
+        "petrol": "145000000"
+	}, {
+		"tara": "Canada",
+        "an": "2005",
+        "hidroelectricitate": "31300000",
+        "energie nucleara": "7910000",
+        "petrol": "142000000"
+	}, {
+		"tara": "Canada",
+        "an": "2006",
+        "hidroelectricitate": "30300000",
+        "energie nucleara": "8420000",
+        "petrol": "151000000"
+	}, {
+		"tara": "Canada",
+        "an": "2007",
+        "hidroelectricitate": "31600000",
+        "energie nucleara": "8040000",
+        "petrol": "155000000"
+	}, {
+		"tara": "Canada",
+        "an": "2008",
+        "hidroelectricitate": "32200000",
+        "energie nucleara": "8080000",
+        "petrol": "153000000"
+	}, {
+		"tara": "Canada",
+        "an": "2009",
+        "hidroelectricitate": "31700000",
+        "energie nucleara": "7750000",
+        "petrol": "153000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1980",
+        "hidroelectricitate": "335000",
+        "energie nucleara": "3180000",
+        "petrol": "80500000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1981",
+        "hidroelectricitate": "374000",
+        "energie nucleara": "3270000",
+        "petrol": "89500000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1982",
+        "hidroelectricitate": "390000",
+        "energie nucleara": "3780000",
+        "petrol": "103000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1983",
+        "hidroelectricitate": "391000",
+        "energie nucleara": "4290000",
+        "petrol": "115000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1984",
+        "hidroelectricitate": "343000",
+        "energie nucleara": "4640000",
+        "petrol": "126000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1985",
+        "hidroelectricitate": "352000",
+        "energie nucleara": "5250000",
+        "petrol": "128000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1986",
+        "hidroelectricitate": "410000",
+        "energie nucleara": "5080000",
+        "petrol": "127000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1987",
+        "hidroelectricitate": "356000",
+        "energie nucleara": "4750000",
+        "petrol": "123000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1988",
+        "hidroelectricitate": "424000",
+        "energie nucleara": "5460000",
+        "petrol": "114000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1989",
+        "hidroelectricitate": "408000",
+        "energie nucleara": "6170000",
+        "petrol": "91700000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1990",
+        "hidroelectricitate": "448000",
+        "energie nucleara": "5650000",
+        "petrol": "91600000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1991",
+        "hidroelectricitate": "398000",
+        "energie nucleara": "6070000",
+        "petrol": "91300000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1992",
+        "hidroelectricitate": "467000",
+        "energie nucleara": "6600000",
+        "petrol": "94300000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1993",
+        "hidroelectricitate": "370000",
+        "energie nucleara": "7680000",
+        "petrol": "100000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1994",
+        "hidroelectricitate": "438000",
+        "energie nucleara": "7590000",
+        "petrol": "127000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1995",
+        "hidroelectricitate": "416000",
+        "energie nucleara": "7650000",
+        "petrol": "130000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1996",
+        "hidroelectricitate": "292000",
+        "energie nucleara": "8140000",
+        "petrol": "130000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1997",
+        "hidroelectricitate": "359000",
+        "energie nucleara": "8440000",
+        "petrol": "128000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1998",
+        "hidroelectricitate": "440000",
+        "energie nucleara": "8550000",
+        "petrol": "133000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "1999",
+        "hidroelectricitate": "459000",
+        "energie nucleara": "8180000",
+        "petrol": "137000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "2000",
+        "hidroelectricitate": "437000",
+        "energie nucleara": "7310000",
+        "petrol": "126000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "2001",
+        "hidroelectricitate": "349000",
+        "energie nucleara": "7750000",
+        "petrol": "117000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "2002",
+        "hidroelectricitate": "412000",
+        "energie nucleara": "7550000",
+        "petrol": "116000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "2003",
+        "hidroelectricitate": "278000",
+        "energie nucleara": "7630000",
+        "petrol": "106000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "2004",
+        "hidroelectricitate": "416000",
+        "energie nucleara": "6880000",
+        "petrol": "95600000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "2005",
+        "hidroelectricitate": "423000",
+        "energie nucleara": "7020000",
+        "petrol": "85100000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "2006",
+        "hidroelectricitate": "395000",
+        "energie nucleara": "6490000",
+        "petrol": "76900000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "2007",
+        "hidroelectricitate": "438000",
+        "energie nucleara": "5420000",
+        "petrol": "76900000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "2008",
+        "hidroelectricitate": "444000",
+        "energie nucleara": "4510000",
+        "petrol": "72000000"
+	}, {
+		"tara": "Marea Britanie",
+        "an": "2009",
+        "hidroelectricitate": "453000",
+        "energie nucleara": "5940000",
+        "petrol": "68300000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1980",
+        "hidroelectricitate": "24000000",
+        "energie nucleara": "22900000",
+        "petrol": "480000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1981",
+        "hidroelectricitate": "22600000",
+        "energie nucleara": "24900000",
+        "petrol": "479000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1982",
+        "hidroelectricitate": "26900000",
+        "energie nucleara": "25800000",
+        "petrol": "481000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1983",
+        "hidroelectricitate": "28800000",
+        "energie nucleara": "26800000",
+        "petrol": "483000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1984",
+        "hidroelectricitate": "27900000",
+        "energie nucleara": "29900000",
+        "petrol": "496000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1985",
+        "hidroelectricitate": "24400000",
+        "energie nucleara": "35000000",
+        "petrol": "499000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1986",
+        "hidroelectricitate": "25300000",
+        "energie nucleara": "37700000",
+        "petrol": "482000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1987",
+        "hidroelectricitate": "20400000",
+        "energie nucleara": "41500000",
+        "petrol": "467000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1988",
+        "hidroelectricitate": "17900000",
+        "energie nucleara": "48000000",
+        "petrol": "459000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1989",
+        "hidroelectricitate": "22000000",
+        "energie nucleara": "48300000",
+        "petrol": "429000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1990",
+        "hidroelectricitate": "23500000",
+        "energie nucleara": "52600000",
+        "petrol": "417000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1991",
+        "hidroelectricitate": "24800000",
+        "energie nucleara": "55800000",
+        "petrol": "423000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1992",
+        "hidroelectricitate": "21900000",
+        "energie nucleara": "56400000",
+        "petrol": "413000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1993",
+        "hidroelectricitate": "24400000",
+        "energie nucleara": "55600000",
+        "petrol": "397000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1994",
+        "hidroelectricitate": "22600000",
+        "energie nucleara": "58400000",
+        "petrol": "388000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1995",
+        "hidroelectricitate": "27000000",
+        "energie nucleara": "61400000",
+        "petrol": "384000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1996",
+        "hidroelectricitate": "30200000",
+        "energie nucleara": "61500000",
+        "petrol": "382000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1997",
+        "hidroelectricitate": "28700000",
+        "energie nucleara": "57300000",
+        "petrol": "380000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1998",
+        "hidroelectricitate": "25500000",
+        "energie nucleara": "61400000",
+        "petrol": "368000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "1999",
+        "hidroelectricitate": "23900000",
+        "energie nucleara": "66400000",
+        "petrol": "353000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "2000",
+        "hidroelectricitate": "21800000",
+        "energie nucleara": "68600000",
+        "petrol": "348000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "2001",
+        "hidroelectricitate": "16200000",
+        "energie nucleara": "68200000",
+        "petrol": "345000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "2002",
+        "hidroelectricitate": "23000000",
+        "energie nucleara": "69200000",
+        "petrol": "342000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "2003",
+        "hidroelectricitate": "24000000",
+        "energie nucleara": "67700000",
+        "petrol": "333000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "2004",
+        "hidroelectricitate": "23300000",
+        "energie nucleara": "69900000",
+        "petrol": "325000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "2005",
+        "hidroelectricitate": "23400000",
+        "energie nucleara": "69700000",
+        "petrol": "309000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "2006",
+        "hidroelectricitate": "25100000",
+        "energie nucleara": "70200000",
+        "petrol": "305000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "2007",
+        "hidroelectricitate": "21500000",
+        "energie nucleara": "71900000",
+        "petrol": "305000000"
+	}, {
+		"tara": "Statele Unite",
+        "an": "2008",
+        "hidroelectricitate": "22100000",
+        "energie nucleara": "72000000",
+        "petrol": "302000000"
+	
+    }]
+}
